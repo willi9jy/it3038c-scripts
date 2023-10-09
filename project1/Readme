@@ -1,0 +1,7 @@
+This is a python script that’s displays the current  date, time, hostname and approximate location of the person running the script. This script uses geocoder  to display the location of the users device. To run this command you can either run .\dateTimeLocation.py or python dateTimeLocation.py. If you run into any problems with the location you may need to install geocoded. 
+
+Sources:
+
+geocoder 
+w3Schools
+Previous labs.
