@@ -14,7 +14,7 @@ Navigate to openweathermap.org, create an account, and once signed up, go to you
 API_KEY = 'PlaceAPI_InHere'
 Run the command to ensure it works: open the command line, navigate to the file location, and run .\Project2. It will display the information as a pop-up.
 
-To set it up to run automatically upon login:
+To set it up to run automatically upon login(optional):
 
 Open Task Scheduler.
 Create a new task.
@@ -34,7 +34,7 @@ If you encounter any problems with the location you may need to install geocoded
 
 
 Sources:
-
+openweathermap
 geocoder 
 w3Schools
 Previous labs.
