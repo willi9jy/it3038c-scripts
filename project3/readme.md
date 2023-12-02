@@ -8,12 +8,15 @@ pip install schedule
 pip install OpenWeatherMap
 pip install requests
 
+-------------------------
+
 Navigate to openweathermap.org, create an account, and once signed up, go to your account settings to copy your API code. 
 
 Open the Project 3 folder open the WeatherAPI.py with a code editor(I used IDLE Shell because it is user friendly to me) and follow the configuration instructions in the script:
 Run the command to ensure it works: open the command line, navigate to the file location, and run .\WeatherAPI.py. It will generate an html file(weather_report.html) with your 
 current weather along with icon of the curret weather conditions.
 
+-------------------------
 
 Navigate to openweathermap.org, create an account, and once signed up, go to your account settings to copy your API code. 
 
